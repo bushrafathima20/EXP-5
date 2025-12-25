@@ -50,4 +50,5 @@ PRECAUTIONS:
 
    
 RESULT:
+
 The Characteristics of Zener Break Diode Voltage Regulation from the Characteristics are Observed.
